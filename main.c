@@ -4,5 +4,6 @@
 
 int main(){
     zadPierwsze();
+    printf("Hello");
     return 0;
 }
