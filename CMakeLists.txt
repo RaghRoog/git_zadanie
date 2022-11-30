@@ -4,4 +4,4 @@ project(git_zadanie C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(git_zadanie
-        main.c)
+        main.c zadPierwsze.h)
