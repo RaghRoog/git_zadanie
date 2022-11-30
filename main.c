@@ -5,5 +5,7 @@
 int main(){
     zadPierwsze();
     printf("Hello");
+=======
+    printf("Hello wordl");
     return 0;
 }
