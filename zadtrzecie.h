@@ -7,4 +7,6 @@ void trzecie() {
     scanf("%f", &wzrost);
     printf("Podaj swoja wage [kg]\n");
     scanf("%f", &waga);
+    BMI = waga / (wzrost * wzrost);
+    printf("Twoje BMI wynosi: %.2f\n", BMI);
 }
