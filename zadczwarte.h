@@ -4,4 +4,5 @@ void zadanieczwarte(){
     int wiek;
 
     printf("Proszę o podanie swojego wieku:\n");
+    scanf("%d", &wiek);
 } 
