@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "zadPierwsze.h"
+#include "zadczwarte.h"
 
 int main(){
-    zadPierwsze();
-    printf("Hello");
-=======
+    //zadPierwsze();
     printf("Hello wordl");
     return 0;
 }
