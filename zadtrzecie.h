@@ -4,4 +4,5 @@ void trzecie() {
     float BMI;
     printf("Ten program oblicza BMI\n");
     printf("Podaj swoj wzrost [m]\n");
+    scanf("%f", &wzrost);
 }
