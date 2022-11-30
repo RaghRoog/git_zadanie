@@ -3,8 +3,7 @@
 #include "zadczwarte.h"
 
 int main(){
-//    zadPierwsze();
-    zadanieczwarte();
+    //zadPierwsze();
     printf("Hello wordl");
     return 0;
 }
