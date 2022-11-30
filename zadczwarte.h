@@ -5,4 +5,5 @@ void zadanieczwarte(){
 
     printf("Proszę o podanie swojego wieku:\n");
     scanf("%d", &wiek);
+    printf("Twój wiek w sekundach wynosi: %2f s.\n", wiek*sekundy);
 } 
