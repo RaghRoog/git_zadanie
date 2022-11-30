@@ -1,5 +1,7 @@
 
  void zadDrugie()
  {
-
+ 
+    int kod;
+    
 }
