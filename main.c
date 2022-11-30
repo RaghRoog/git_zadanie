@@ -4,6 +4,6 @@
 
 int main(){
     //zadPierwsze();
-    printf("Hello wordl");
+    printf("Hello world");
     return 0;
 }
